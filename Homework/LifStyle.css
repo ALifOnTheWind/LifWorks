@@ -38,3 +38,7 @@ body{
   border-width: 5px !important;
   border-style:ridge !important;
   }
+
+  .navbar a {
+color: red;
+  }
